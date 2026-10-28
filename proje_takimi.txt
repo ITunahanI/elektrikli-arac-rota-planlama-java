@@ -1,0 +1,5 @@
+Grup No: 1
+1. Ferdi Tunahan Erten - 5250505075 (Proje Yöneticisi ve Algoritma Geliştirici)
+2. Eren Erden - 1250505052 (OOP Mimarisi ve Tasarım Kalıpları)
+3. Doruk Yılmaz - 5250505091 (Birim Testleri ve Veri Kalıcılığı)
+4. Meryem Battal - 1250505007 (Moral Desteği)

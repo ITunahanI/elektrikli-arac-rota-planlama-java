@@ -1,0 +1,7 @@
+STATION;Edirne Merkez Şarj;7.5;true
+STATION;Kırklareli İstasyon;6.2;false
+STATION;Lüleburgaz Hızlı Şarj;8.0;true
+STATION;Çorlu Enerji;6.8;true
+STATION;İstanbul Avrupa;8.5;true
+VEHICLE;Togg T10X;88.5;0.18
+VEHICLE;Tesla Model Y;75.0;0.15
