@@ -13,7 +13,7 @@ Bu proje, Nesneye Yönelik Programlama (OOP) dersi kapsamında **Java** diliyle 
 * **Algoritma:** Graf veri yapısı üzerinde araç menzilini (`getRange()`) dikkate alan **Dijkstra En Kısa Yol Algoritması** (`DijkstraRouteStrategy`) entegre edilmiştir.
 * **Veri Kalıcılığı:** Eklenen araçlar ve şarj istasyonları `data.txt` dosyasında kalıcı olarak saklanır.
 
-## Kurulum ve Çalıştırma
+## Kurulum ve Çalıştırılması
 Projeyi derlemek ve konsol uygulamasını başlatmak için:
 ```bash
 javac Main.java
